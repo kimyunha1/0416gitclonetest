@@ -8,6 +8,7 @@ print("뺄셈 결과:", a - b)
 print("곱셈 결과:", a * b)
 print("제곱 결과:", a ** b)
 #modified by yunhakim on 26.04.16. It is not easy to use Git program...!!
+#modified by yunhakim on 26.04.16.8 p.m
 # 나눗셈은 0으로 나누는 경우를 방지
 if b != 0:
     print("나눗셈 결과:", a / b)
